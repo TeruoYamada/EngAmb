@@ -20,23 +20,23 @@ Este é um aplicativo interativo desenvolvido em **Streamlit** para facilitar o 
 ## 🚀 Como usar
 
 1. Clone o repositório:
-   ```bash
+```bash
    git clone https://github.com/seuusuario/EngAmbUFMS.git
    cd EngAmbUFMS
-   ````
+````
 2. Instale o Streamlit (caso não tenha):
-   ```bash
+```bash
    pip install streamlit
-   ````
+````
 
 3. Execute o aplicativo:
-  ```bash
+```bash
   streamlit run app.py
-  ````
+````
 4.Use o navegador para visualizar o app: 
-  ```bash
+```bash
   O navegador abrirá automaticamente em localhost:8501.
-  ````
+````
 
 ---
 
